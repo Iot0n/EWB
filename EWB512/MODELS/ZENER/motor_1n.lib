@@ -1,0 +1,4158 @@
+
+.MODEL 1N4370A D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N4371A D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N4372A D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N4678 D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N4681 D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N4728A D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N4729A D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N4730A D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N4731A D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N4732A D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N4733A D (
++   IS =  0.001
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  5
++   IBV =  0.01
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N4734A D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N4735A D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N4736A D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N4737A D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N4738A D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N4739A D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N4740A D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N4741A D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N4742A D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N4743A D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N4744A D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N4745A D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N4746A D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N4747A D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N4748A D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N4749A D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N4750A D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N4751A D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N4752A D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N4753A D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N4754A D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N4755A D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N4756A D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N4757A D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N4758A D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N4759A D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N4760A D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N4761A D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N4762A D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N4763A D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N4764A D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N476A D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5221B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5222B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5223B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5224B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5225B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5226B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5227B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5228B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5229B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5230B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5231B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5232B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5233B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5234B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5235B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5236B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5237B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5238B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5239B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5240B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5241B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5242B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5243B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5244B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5245B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5246B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5247B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5248B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5249B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5250B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5251B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5252B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5253B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5254B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5255B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5256B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5257B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5258B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5259B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5260B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5261B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5262B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5263B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5264B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5265B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5266B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5267B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5268B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5269B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5270B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5271B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5272B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5273B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5274B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5275B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5276B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5277B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5278B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5279B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5280B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5281B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5913B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5914B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5915B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5916B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5917B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5918B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5919B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5920B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5921B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5922B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5923B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5924B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5925B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5926B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5927B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5928B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5929B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5930B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5931B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5932B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5933B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5934B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5935B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5936B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5937B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5938B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5939B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5940B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5941B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5942B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5943B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5944B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5945B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5946B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5947B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5985B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5986B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5987B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5988B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5989B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5990B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5991B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5992B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5993B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5994B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5995B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5996B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5997B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5998B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N5999B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N6000B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N6001B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N6002B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N6003B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N6004B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N6005B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N6006B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N6007B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N6008B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N6009B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N6010B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N6011B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N6012B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N6013B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N6014B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N6015B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N6016B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N6017B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N6018B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N6019B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N6020B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N6021B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N6022B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N6023B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N6024B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N6025B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N747A D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N748A D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N749A D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N750A D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N751A D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N752A D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N753A D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N754A D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N755A D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N756A D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N757A D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N758A D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N759A D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N957B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N958B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N959B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N960B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N961B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N962B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N963B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N964B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N965B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N966B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N967B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N968B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N969B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N970B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N971B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N972B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N973B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N974B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N975B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N976B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N977B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N978B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N979B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N980B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N981B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N982B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N983B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N984B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N985B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N986B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N987B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N988B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N989B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N990B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N991B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL 1N992B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL D1N4728A D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
+
+.MODEL D1N5226B D (
++   IS =  1e-14
++   RS =  0
++   CJO =  0
++   VJ =  1
++   TT =  0
++   M =  0.5
++   BV =  1e+30
++   IBV =  0.001
++   N =  1
++   EG =  1.11
++   XTI =  3
++   KF =  0
++   AF =  1
++   FC =  0.5
++   TNOM =  27
+)
